@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Michael Hengherr -- Designer, Developer, ...
+
+# THANKS
+
+    - My family, friends and customers for their neverending support
+    - The OpenSource Community: I wouldn't be where I am without your efforts. I promise I'll be giving back in 2015!
+    - To everyone else who keeps me going :)
+
+# TECHNOLOGY COLOPHON
+
+    Nothing fancy, sorry. Maybe in 2015.

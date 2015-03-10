@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Hengherr;Michael;;;
+FN:dreizehnelf - IT Beratung
+ORG:dreizehnelf - IT Beratung;
+EMAIL;INTERNET;WORK:info@dreizehnelf.de
+TEL;WORK;VOICE:+49 (7746) 927 888 11
+TEL;WORK;FAX:+49 (7746) 927 888 13
+TEL;CELL;VOICE:+49 (162) 610 52 99
+ADR;WORK:;;Eichbergstr. 24;Horheim;;79793;Deutschland
+URL;type=pref:http://www.dreizehnelf.de/
+END:VCARD
